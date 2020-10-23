@@ -18,7 +18,7 @@ Of course, you didn't *have* to notice any repeating patterns. You could have al
 
 # Solution
 
-Once you figured out what each EV represented, it was straightforward enough to find the flag. You could either plug in each value you found into an [ASCII table](asciitable.com), or used a programming language to find the flag.
+Once you figured out what each EV represented, it was straightforward enough to find the flag. You could either plug in each value you found into an [ASCII table](https://asciitable.com), or used a programming language to find the flag.
 
 A neat way of finding the flag is using the `String.fromCharCode()` function in the web console. [here's](files/Teamatina.png) a screenshot of that (note that the _RNG was 3 randomized characters for your challenge).
 
