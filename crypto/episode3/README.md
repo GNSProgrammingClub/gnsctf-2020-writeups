@@ -9,7 +9,7 @@ Your question may have looked slightly different.
 >General Grievous just sent something to the Separatists, but it seems to just be a bunch of white noise! Can you help us decode it? [flag.bmp](files/flag.bmp)
 
 ## Hints
->I've been looking at this image for a while, and I'm starting to think it's encoded. I found something out about how to crack it, and my findings are [here](files/Classified_Info.png). I think every single pixel stores something, but what...?
+>I've been looking at this image for a while, and I'm starting to think it's encoded. I found something out about how to crack it, and my findings are [here](files/Classified Info.png). I think every single pixel stores something, but what...?
 
 ## Analysis
 
