@@ -22,7 +22,7 @@ Before we go into the actual solution, let's first explore how the code works to
 
 We can see two different script files that will be of use.
 One is the [client side code](files/index.js), which can be viewed in chrome developer tools.
-The other is the [server side code](files/server.js), which can be downloaded from the link in the channel description.
+The other is the [server side code](files/server.js), which can be downloaded from the link in the challenge description.
 
 The first important thing to notice is the use of a library called [socket.io](https://socket.io/), which works as a communication library between the client and the server.
 
