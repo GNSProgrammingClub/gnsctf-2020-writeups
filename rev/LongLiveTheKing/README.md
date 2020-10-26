@@ -18,7 +18,7 @@ Rev
 
 The flag is being xor'd by the super long `exoar`. We just need to exoar it again to get the original back.
 
-# Solution
+## Solution
 
 ```javascript
 (() => {
